@@ -1,13 +1,14 @@
 
 import './App.css'
 import Counter from './components/Counter'
+import Praksis from './components/Praksis'
 
 function App() {
 
 
   return (
     <>
-      <Counter start={0} />
+      <Praksis />
     </>
   )
 }
